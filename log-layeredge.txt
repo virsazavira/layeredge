@@ -353,3 +353,8 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [15:19:38 | 01-03-2025] ✅ Node started for 0x90c9CE76132797f848713DB3cc373baa317E6Fd0
+[19:29:40 | 01-03-2025] Wallet Address: 0x90c9CE76132797f848713DB3cc373baa317E6Fd0
+[19:29:40 | 01-03-2025] Node Points: 279614
+[19:29:40 | 01-03-2025] Last Claim Point: 28/02/2025 04:19:48
+[19:30:16 | 01-03-2025] ✅ Points claimed for 0x90c9CE76132797f848713DB3cc373baa317E6Fd0
+[19:30:30 | 01-03-2025] 🚨 Failed to start node for 0x90c9CE76132797f848713DB3cc373baa317E6Fd0: [object Object]
