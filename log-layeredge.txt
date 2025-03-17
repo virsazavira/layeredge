@@ -632,3 +632,6 @@
 [11:20:14 | 17-03-2025] Last Claim Point: 16/03/2025 01:22:47
 [11:20:15 | 17-03-2025] ✅ Points claimed for 0x90c9CE76132797f848713DB3cc373baa317E6Fd0
 [11:20:16 | 17-03-2025] 🚨 Failed to start node for 0x90c9CE76132797f848713DB3cc373baa317E6Fd0: [object Object]
+[15:22:53 | 17-03-2025] Wallet Address: 0x90c9CE76132797f848713DB3cc373baa317E6Fd0
+[15:22:53 | 17-03-2025] Node Points: 741736
+[15:22:53 | 17-03-2025] Last Claim Point: 17/03/2025 04:20:15
